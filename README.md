@@ -1,13 +1,7 @@
 <h2 align="left">Hi 👋! My name is Coder Saiya (Nhật Cường) and I'm a mobile dev, from Vietnam</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderSaiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false?order=1?timestamp=${Date.now()}" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSaiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false?order=2?timestamp=${Date.now()}" height="150" alt="languages graph"  />
-</div>
-
-###
+![Coder Saiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSaiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false?order=1?timestamp=${Date.now())
+![Coder Saiya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CoderSaiya&locale=en&hide_title=false&layout=compact&card_width=320&card_height=150&langs_count=5&theme=dracula&hide_border=false?order=2?timestamp=${Date.now()})
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/119063991?s=400&u=aa59025cae5a3cbb908d440639d638a7c1d5fd66&v=4"  />
 ###
