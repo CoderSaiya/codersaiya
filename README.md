@@ -114,4 +114,15 @@
   <img src="https://visitcount.itsvg.in/api?id=CoderSaiya&label=Profile%20Views&icon=5&pretty=false" />
 </a>
 
+<script>
+  window.onload = function() {
+    const stats = document.querySelectorAll('img[src*="github-readme-stats"]');
+    stats.forEach(stat => {
+      const src = stat.src;
+      stat.src = '';  // Clear the src
+      stat.src = src; // Reset it to reload
+    });
+  };
+</script>
+
 ###
