@@ -110,6 +110,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CoderSaiya/CoderSaiya/output/snake.svg" alt="Snake animation" />
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=CoderSaiya&label=Profile%20Views&icon=5&pretty=false" />
+</a>
 
 ###
