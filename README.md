@@ -3,14 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderSaiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSaiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderSaiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false?order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSaiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false?order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/119063991?s=400&u=aa59025cae5a3cbb908d440639d638a7c1d5fd66&v=4"  />
-
 ###
 
 <div align="left">
@@ -113,16 +112,5 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=CoderSaiya&label=Profile%20Views&icon=5&pretty=false" />
 </a>
-
-<script>
-  window.onload = function() {
-    const stats = document.querySelectorAll('img[src*="github-readme-stats"]');
-    stats.forEach(stat => {
-      const src = stat.src;
-      stat.src = '';  // Clear the src
-      stat.src = src; // Reset it to reload
-    });
-  };
-</script>
 
 ###
